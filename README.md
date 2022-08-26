@@ -4,7 +4,7 @@
 ![](./cover1.png)
 
 - **Easy Search🧐**
-- **Mobile first design ✌🏻**
+- **Desktop first design ✌🏻**
 - **Clean UI ⚡**
 
 
