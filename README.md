@@ -3,9 +3,7 @@
 ![](./cover.png)
 ![](./cover1.png)
 
-- **Topic wise question search 🔍**
-- **Topic wise progress 🧐**
-- **Complete local storage 📂**
+- **Easy Search🧐**
 - **Mobile first design ✌🏻**
 - **Clean UI ⚡**
 
