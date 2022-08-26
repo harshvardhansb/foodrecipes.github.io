@@ -34,7 +34,11 @@ section {
   text-align: center;
   font-size: 4rem;
   color: whitesmoke;
+  margin: auto;
   margin-bottom: 30px;
+}
+#happ{
+  color: rgb(255, 183, 0);
 }
 form {
   width: 90%;
@@ -94,17 +98,23 @@ form ion-icon {
   text-align: center;
   width: 130px;
   padding: 10px 0;
-  background-color: #2d2d2d;
+  /* background-color: #2d2d2d; */
+  background: transparent;
+  border: 2px solid rgb(94, 94, 94);
   color: whitesmoke;
   font-size: 1.4rem;
   font-weight: 600;
   margin-top: 20px;
   border-radius: 4px;
   align-self: flex-start;
+  transition: .4s ease-in-out 0s;
 }
 
 .view-btn:hover{
-    background-color: #4e4e4e;
+    background-color: rgb(214, 154, 0);
+    font-weight: 1000;
+    border: 0ch;
+    transform: scale(1.05);
 }
 .item-data {
   color: whitesmoke;
@@ -156,7 +166,7 @@ footer ul a{
 footer ul a:hover{
   
   font-size: 2em;
-  color:rgb(26, 255, 198) ;
+  color:rgb(255, 183, 0);
 }
 
 a:visited{
